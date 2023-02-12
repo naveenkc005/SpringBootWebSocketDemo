@@ -1,4 +1,5 @@
 ## Spring Boot WebSocket Chat Appplication
+![image](https://user-images.githubusercontent.com/39068928/218325996-8302c488-5af4-4c84-8425-17c96fc68641.png)
 
 
 ## Requirements
